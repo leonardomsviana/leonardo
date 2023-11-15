@@ -485,8 +485,8 @@
     }
 
     .grade td {
-      max-width: 150px; /* Ajuste a largura máxima desejada para as células */
-      height: 120px; /* Ajuste a altura desejada para as células */
+      max-width: 150px; 
+      height: 120px; 
       border: 1px solid #ddd;
       padding: 8px;
       text-align: center;
@@ -501,7 +501,7 @@
     }
 
     .grade a {
-      display: block; /* Torna a âncora um bloco para ocupar a célula inteira */
-      height: 100%; /* Garante que a âncora ocupe a altura completa da célula */
-      text-decoration: none; /* Remove o sublinhado padrão */
+      display: block; 
+      height: 100%; 
+      text-decoration: none; 
     }
